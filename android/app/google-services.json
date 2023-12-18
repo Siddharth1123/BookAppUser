@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796100869059",
+    "project_id": "bookapp-4b90a",
+    "storage_bucket": "bookapp-4b90a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796100869059:android:9f4465f8e4aac2730edb76",
+        "android_client_info": {
+          "package_name": "com.example.fashion_ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzM0VOOpe1JRfSX7mTPBl1c_OfLjRjwh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
